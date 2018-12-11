@@ -1,0 +1,7 @@
+a.out
+Dodder
+*.o
+*.a
+.pass
+bin
+build
